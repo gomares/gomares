@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Este es un perfil abierto por mero entretenimiento.
 
 
-Me gusta la Ciberseguridad.
+Me gusta participar en proyectos relacionados con la Ciberseguridad y los Sistemas Operativos.
 
 ### Skills
 
