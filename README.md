@@ -4,7 +4,7 @@
 - 🍬 This profile is not a professional one, i know.
 - 👯 I’m looking to collaborate on **any project related to Infosec and Operative Systems**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
