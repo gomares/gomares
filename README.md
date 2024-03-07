@@ -13,5 +13,3 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomares&show_icons=true&theme=synthwave&locale=en" alt="gomares" /></p>
